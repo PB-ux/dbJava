@@ -1,0 +1,22 @@
+Mar 14, 2024 6:42:24 PM org.example.ProgressionFileManager readProgressionFromCSV
+INFO: An object was created with an arithmetic progression: Progression {start=3, step=4, terms=7}
+Mar 14, 2024 6:42:24 PM org.example.ProgressionFileManager readProgressionFromCSV
+INFO: An object was created with an geometric progression: Progression {start=3, step=5, terms=6}
+Mar 14, 2024 6:42:24 PM org.example.ProgressionFileManager readProgressionFromCSV
+INFO: An object was created with an arithmetic progression: Progression {start=2, step=23, terms=2}
+Mar 14, 2024 6:42:24 PM org.example.ProgressionFileManager readProgressionFromCSV
+INFO: An object was created with an geometric progression: Progression {start=2, step=34, terms=12}
+Mar 14, 2024 6:42:24 PM org.example.ProgressionFileManager readProgressionFromCSV
+INFO: An object was created with an arithmetic progression: Progression {start=3, step=4, terms=7}
+Mar 14, 2024 6:42:24 PM org.example.ProgressionFileManager readProgressionFromCSV
+INFO: An object was created with an arithmetic progression: Progression {start=3, step=4, terms=7}
+Mar 14, 2024 6:42:24 PM org.example.ProgressionFileManager readProgressionFromCSV
+INFO: An object was created with an arithmetic progression: Progression {start=3, step=4, terms=7}
+Mar 14, 2024 6:42:24 PM org.example.ProgressionFileManager readProgressionFromCSV
+INFO: An object was created with an geometric progression: Progression {start=2, step=34, terms=12}
+Mar 14, 2024 6:42:24 PM org.example.ProgressionFileManager readProgressionFromCSV
+INFO: An object was created with an geometric progression: Progression {start=2, step=34, terms=12}
+Mar 14, 2024 6:42:24 PM org.example.ProgressionFileManager readProgressionFromCSV
+INFO: An object was created with an geometric progression: Progression {start=2, step=34, terms=12}
+Mar 14, 2024 6:42:24 PM org.example.ProgressionFileManager readProgressionFromCSV
+INFO: An object was created with an geometric progression: Progression {start=2, step=34, terms=12}
